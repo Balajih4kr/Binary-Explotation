@@ -10,8 +10,8 @@
 >### TO make Explotation fast
 
 >## Steps to Install ADR3R :
-
-> - #### git clone 
+> - #### 
+ git clone 
 https://github.com/balaji17112004/RDR3R.git
 
 > - #### ./ADR3R
